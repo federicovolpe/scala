@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala:13:24: value args of type Array[String] does not take type parameters.[0m
+[0m[[0m[31merror[0m] [0m[0m        val file = args[1][0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala:15:40: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Interprete.Parser[?][0m
+[0m[[0m[31merror[0m] [0m[0m        Interprete.parseAll(Interprete.interpreta, testo) match {[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

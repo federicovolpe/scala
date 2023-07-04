@@ -1,0 +1,600 @@
+2023.02.11 19:45:29 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/lsp.trace.json or /Users/luigivolpe/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.11 19:45:30 INFO  logging to file /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/metals.log
+2023.02.11 19:45:30 INFO  Started: Metals version 0.11.10 in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/luigivolpe/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.11 19:45:32 INFO  time: initialize in 2.23s
+2023.02.11 19:45:40 INFO  no build target found for /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala. Using presentation compiler with project's scala-library version: 3.2.1
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 3
+2023.02.11 19:45:40 WARN  Build server is not auto-connectable.
+2023.02.11 19:45:40 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.11 19:45:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 11
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 7
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 14
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 19
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 21
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 17
+feb 11, 2023 7:45:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 22
+2023.02.11 19:45:43 INFO  time: code lens generation in 2.76s
+2023.02.11 19:45:43 INFO  time: code lens generation in 1.57s
+2023.02.11 19:45:43 INFO  time: code lens generation in 2.64s
+2023.02.11 19:45:43 INFO  time: code lens generation in 2.63s
+2023.02.11 19:45:43 INFO  time: code lens generation in 2.67s
+2023.02.11 19:45:43 INFO  time: code lens generation in 2.68s
+feb 11, 2023 7:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 90
+feb 11, 2023 7:46:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 182
+2023.02.11 19:49:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:51:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:51:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:52:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:55:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:56:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:57:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:57:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:58:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 19:58:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 8:07:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 1188
+2023.02.11 20:08:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 8:08:38 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+feb 11, 2023 8:09:06 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+feb 11, 2023 8:09:15 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+feb 11, 2023 8:09:19 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+feb 11, 2023 8:09:24 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+feb 11, 2023 8:09:33 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+feb 11, 2023 8:10:15 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:99)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+2023.02.11 20:10:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:15:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:15:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:15:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:15:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:16:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 8:17:03 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: sourcecode/Name
+java.lang.NoClassDefFoundError: sourcecode/Name
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.UnpStart(XmlParser.scala:48)
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.Unparsed(XmlParser.scala:47)
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.XmlContent(XmlParser.scala:43)
+	at scala.meta.internal.tokenizers.XmlParser.$anonfun$XmlExpr$1(XmlParser.scala:24)
+	at scala.meta.internal.fastparse.internal.RepImpls$.rec$4(RepImpls.scala:358)
+	at scala.meta.internal.fastparse.internal.RepImpls$.rep$extension(RepImpls.scala:398)
+	at scala.meta.internal.fastparse.package$ByNameOps$.rep$extension(package.scala:271)
+	at scala.meta.internal.tokenizers.XmlParser.XmlExpr(XmlParser.scala:24)
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$getXml$2(LegacyScanner.scala:967)
+	at scala.meta.internal.fastparse.package$.parseInputRaw(package.scala:71)
+	at scala.meta.internal.fastparse.Parsed$Extra.trace(Parsed.scala:141)
+	at scala.meta.internal.fastparse.Parsed$Extra.traced(Parsed.scala:120)
+	at scala.meta.internal.tokenizers.LegacyScanner.getXml(LegacyScanner.scala:971)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchLT$1(LegacyScanner.scala:329)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:337)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:245)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1046)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.pc.ScriptFirstImportPosition$.tokenize(ScriptFirstImportPosition.scala:105)
+	at scala.meta.internal.pc.ScriptFirstImportPosition$.skipPrefixesOffset(ScriptFirstImportPosition.scala:58)
+	at scala.meta.internal.pc.ScriptFirstImportPosition$.skipUsingDirectivesOffset(ScriptFirstImportPosition.scala:55)
+	at scala.meta.internal.pc.AutoImports$.forScalaSource$1$$anonfun$1(AutoImports.scala:320)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.AutoImports$.forScalaSource$1(AutoImports.scala:330)
+	at scala.meta.internal.pc.AutoImports$.autoImportPosition$$anonfun$1(AutoImports.scala:369)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.pc.AutoImports$.autoImportPosition(AutoImports.scala:369)
+	at scala.meta.internal.pc.AutoImports$.generator(AutoImports.scala:102)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:71)
+Caused by: java.lang.ClassNotFoundException: sourcecode.Name
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 35 more
+
+2023.02.11 20:17:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 8:17:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 1913
+2023.02.11 20:17:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:18:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:18:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:19:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:19:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:20:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:20:55 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 20:21:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 10:09:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+feb 11, 2023 10:09:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+feb 11, 2023 10:11:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+feb 11, 2023 10:11:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+feb 11, 2023 10:12:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2521
+feb 11, 2023 10:13:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2562
+feb 11, 2023 10:13:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2666
+feb 11, 2023 10:16:24 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: Comparison method violates its general contract!
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.base/java.util.TimSort.mergeLo(TimSort.java:781)
+	at java.base/java.util.TimSort.mergeAt(TimSort.java:518)
+	at java.base/java.util.TimSort.mergeCollapse(TimSort.java:448)
+	at java.base/java.util.TimSort.sort(TimSort.java:245)
+	at java.base/java.util.Arrays.sort(Arrays.java:1233)
+	at scala.collection.SeqOps.sorted(Seq.scala:727)
+	at scala.collection.SeqOps.sorted$(Seq.scala:719)
+	at scala.collection.immutable.List.scala$collection$immutable$StrictOptimizedSeqOps$$super$sorted(List.scala:79)
+	at scala.collection.immutable.StrictOptimizedSeqOps.sorted(StrictOptimizedSeqOps.scala:78)
+	at scala.collection.immutable.StrictOptimizedSeqOps.sorted$(StrictOptimizedSeqOps.scala:78)
+	at scala.collection.immutable.List.sorted(List.scala:79)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:213)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+
+2023.02.11 22:17:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 10:18:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 3586
+feb 11, 2023 10:18:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 3599
+feb 11, 2023 10:18:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 3692
+feb 11, 2023 10:20:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 3999
+2023.02.11 22:20:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+feb 11, 2023 10:37:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 4096
+2023.02.11 22:37:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:38:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:39:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:42:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:53:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:55:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:55:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:57:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:57:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:58:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:59:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:59:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:59:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:59:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:59:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 22:59:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:00:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:00:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:01:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:01:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:02:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:04:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:04:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:33:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:34:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.11 23:34:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.12 01:06:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.12 01:09:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.12 01:09:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.12 01:09:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/primo.scala
+2023.02.12 01:10:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:13:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:14:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+feb 12, 2023 1:14:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 8763
+2023.02.12 01:15:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+feb 12, 2023 1:15:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 8822
+2023.02.12 01:16:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:18:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:18:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:20:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:20:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:20:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:20:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:21:17 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:21:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:22:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:22:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:23:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:23:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:26:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:27:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:29:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:30:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:31:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/secondo.scala
+2023.02.12 01:39:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/es4.scala
+2023.02.12 01:39:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 2:05:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 11343
+2023.02.12 02:06:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:06:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 2:18:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 12348
+2023.02.12 02:19:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:19:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 2:21:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 12892
+feb 12, 2023 2:22:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 13128
+2023.02.12 02:23:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 2:23:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 13282
+2023.02.12 02:23:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:24:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:24:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:25:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:25:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:25:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:26:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:26:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:26:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:28:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:28:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:28:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:30:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:31:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:31:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.02.12 02:31:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:32:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:32:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:32:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:33:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:33:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:33:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:33:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 2:34:52 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: Toplevel definition monoid is defined in
+  /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+and also in
+  /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+One of these files should be removed from the classpath.
+dotty.tools.dotc.core.TypeError: Toplevel definition monoid is defined in
+  /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+and also in
+  /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2447)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2411)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2467)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2023)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2074)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:811)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:703)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:879)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1020)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:925)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:925)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1020)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:149)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:207)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:99)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:63)
+
+2023.02.12 02:35:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:35:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:36:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:36:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:37:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:39:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:39:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:40:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:40:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:41:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:43:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:43:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:43:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:44:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+Exception in thread "pool-3-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.02.12 02:44:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:45:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:46:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:49:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:49:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:50:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:50:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:51:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:51:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:53:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 02:53:28 INFO  shutting down Metals
+2023.02.12 09:53:03 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/lsp.trace.json or /Users/luigivolpe/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.12 09:53:05 INFO  logging to file /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/metals.log
+2023.02.12 09:53:05 INFO  Started: Metals version 0.11.10 in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/luigivolpe/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 09:53:09 INFO  time: initialize in 3.86s
+2023.02.12 09:53:16 WARN  Build server is not auto-connectable.
+2023.02.12 09:53:16 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.12 09:53:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 09:53:24 INFO  no build target found for /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.12 09:53:26 INFO  time: code lens generation in 10s
+2023.02.12 10:45:28 INFO  shutting down Metals
+2023.02.12 18:08:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/lsp.trace.json or /Users/luigivolpe/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.12 18:08:36 INFO  logging to file /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/metals.log
+2023.02.12 18:08:36 INFO  Started: Metals version 0.11.10 in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/luigivolpe/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 18:08:39 INFO  time: initialize in 2.98s
+2023.02.12 18:08:42 WARN  Build server is not auto-connectable.
+2023.02.12 18:08:42 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.12 18:08:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 18:08:49 INFO  no build target found for /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala. Using presentation compiler with project's scala-library version: 3.2.1
+feb 12, 2023 6:08:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 5
+feb 12, 2023 6:08:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 8
+feb 12, 2023 6:08:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 18
+feb 12, 2023 6:08:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 1
+feb 12, 2023 6:08:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 22
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 24
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 26
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 30
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 31
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 32
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 34
+feb 12, 2023 6:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 37
+2023.02.12 18:08:53 INFO  time: code lens generation in 3.08s
+2023.02.12 18:08:53 INFO  time: code lens generation in 2.65s
+2023.02.12 18:08:53 INFO  time: code lens generation in 2.96s
+2023.02.12 18:08:53 INFO  time: code lens generation in 3.26s
+2023.02.12 18:08:53 INFO  time: code lens generation in 1.74s
+2023.02.12 18:08:53 INFO  time: code lens generation in 2.76s
+2023.02.12 18:08:53 INFO  time: code lens generation in 2.86s
+2023.02.12 18:08:53 INFO  time: code lens generation in 2.12s
+feb 12, 2023 6:08:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 51
+feb 12, 2023 6:09:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 113
+2023.02.12 18:12:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 6:13:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 842
+feb 12, 2023 6:13:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 906
+2023.02.12 18:13:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 6:14:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 1020
+2023.02.12 18:14:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 19:51:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 19:52:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 19:52:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 7:53:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 1590
+2023.02.12 19:53:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+feb 12, 2023 7:58:42 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.printer.MetalsPrinter.completionSymbol(MetalsPrinter.scala:121)
+	at scala.meta.internal.pc.completions.CompletionValue$Symbolic.description(CompletionValue.scala:89)
+	at scala.meta.internal.pc.completions.CompletionValue$Symbolic.description$(CompletionValue.scala:46)
+	at scala.meta.internal.pc.completions.CompletionValue$Workspace.description(CompletionValue.scala:98)
+	at scala.meta.internal.pc.completions.CompletionProvider.completionItems(CompletionProvider.scala:179)
+	at scala.meta.internal.pc.completions.CompletionProvider.$anonfun$1(CompletionProvider.scala:97)
+	at scala.collection.immutable.List.map(List.scala:250)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:98)
+
+2023.02.12 19:58:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 19:59:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 19:59:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 19:59:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/quarto.scala
+2023.02.12 20:16:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/basic/quarto.scala
+2023.02.12 20:17:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+feb 12, 2023 8:19:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2012
+feb 12, 2023 8:19:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+feb 12, 2023 8:20:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2175
+feb 12, 2023 8:21:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2205
+feb 12, 2023 8:22:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2382
+2023.02.12 20:38:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+2023.02.12 20:38:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+2023.02.12 20:40:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+feb 12, 2023 8:41:29 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: Comparison method violates its general contract!
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.base/java.util.TimSort.mergeLo(TimSort.java:781)
+	at java.base/java.util.TimSort.mergeAt(TimSort.java:518)
+	at java.base/java.util.TimSort.mergeCollapse(TimSort.java:448)
+	at java.base/java.util.TimSort.sort(TimSort.java:245)
+	at java.base/java.util.Arrays.sort(Arrays.java:1233)
+	at scala.collection.SeqOps.sorted(Seq.scala:727)
+	at scala.collection.SeqOps.sorted$(Seq.scala:719)
+	at scala.collection.immutable.List.scala$collection$immutable$StrictOptimizedSeqOps$$super$sorted(List.scala:79)
+	at scala.collection.immutable.StrictOptimizedSeqOps.sorted(StrictOptimizedSeqOps.scala:78)
+	at scala.collection.immutable.StrictOptimizedSeqOps.sorted$(StrictOptimizedSeqOps.scala:78)
+	at scala.collection.immutable.List.sorted(List.scala:79)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:213)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+
+2023.02.12 20:41:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+2023.02.12 20:43:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+2023.02.12 20:44:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/primo.scala
+2023.02.12 20:45:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/build.sbt
+2023.02.12 20:46:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/build.sbt
+feb 12, 2023 8:47:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.02.12 20:49:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/build.sbt
+2023.02.12 20:50:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/secondo.scala
+2023.02.12 21:44:56 WARN  no build target for: /Users/luigivolpe/Downloads/arithmetic.scala
+feb 13, 2023 12:33:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.02.13 00:34:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/ArithmeticEvaluator.scala
+2023.02.13 00:34:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/ArithmeticEvaluator.scala
+2023.02.13 00:51:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+2023.02.13 01:08:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+2023.02.13 01:09:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+2023.02.13 01:09:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+feb 13, 2023 1:10:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 4590
+2023.02.13 01:44:19 INFO  shutting down Metals
+2023.02.13 08:43:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/lsp.trace.json or /Users/luigivolpe/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.13 08:43:19 INFO  logging to file /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/.metals/metals.log
+2023.02.13 08:43:19 INFO  Started: Metals version 0.11.10 in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/luigivolpe/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 08:43:22 INFO  time: initialize in 3.17s
+2023.02.13 08:43:29 WARN  Build server is not auto-connectable.
+2023.02.13 08:43:29 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.13 08:43:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+2023.02.13 08:44:31 INFO  no build target found for /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 08:44:35 INFO  time: code lens generation in 29s
+2023.02.13 08:58:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+2023.02.13 08:58:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico Volpe/linguaggi di programmazione/scala/secondo appello/advanced/esame.scala
+2023.02.13 08:58:10 INFO  shutting down Metals
