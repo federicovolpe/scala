@@ -1,0 +1,32 @@
+2023.07.09 18:33:22 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova' for client Visual Studio Code 1.80.0.
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova/.metals/metals (H2 2.1)
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFORMAZIONI: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.026s)
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFORMAZIONI: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": << Empty Schema >>
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "1 - Create tables"
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "2 - Server discovery"
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+lug 09, 2023 6:33:22 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.089s)
+2023.07.09 18:33:23 INFO  time: initialize in 0.77s
+2023.07.09 18:33:28 WARN  Build server is not auto-connectable.
+2023.07.09 18:34:37 INFO  Shutting down server
+2023.07.09 18:34:37 INFO  shutting down Metals
+2023.07.09 18:34:37 INFO  Exiting server

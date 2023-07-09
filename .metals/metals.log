@@ -1,0 +1,404 @@
+2023.07.05 15:25:24 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.79.2.
+lug 05, 2023 3:25:24 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 05, 2023 3:25:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 05, 2023 3:25:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFORMAZIONI: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.059s)
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFORMAZIONI: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": << Empty Schema >>
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "1 - Create tables"
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "2 - Server discovery"
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+lug 05, 2023 3:25:26 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.328s)
+2023.07.05 15:25:26 INFO  time: initialize in 2.11s
+2023.07.05 15:25:31 WARN  Build server is not auto-connectable.
+2023.07.05 15:25:31 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.05 15:25:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/MyClass.scala
+2023.07.05 15:25:37 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/MyClass.scala. Using presentation compiler with project's scala-library version: 3.2.2
+lug 05, 2023 3:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 3
+lug 05, 2023 3:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 2
+lug 05, 2023 3:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 1
+lug 05, 2023 3:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 5
+2023.07.05 15:25:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+2023.07.05 15:25:41 INFO  time: code lens generation in 10s
+2023.07.05 15:25:41 INFO  time: code lens generation in 3.74s
+lug 05, 2023 3:38:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+lug 05, 2023 3:38:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.07.05 23:25:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+2023.07.05 23:25:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+2023.07.05 23:25:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+2023.07.05 23:25:22 INFO  Shutting down server
+2023.07.05 23:25:22 INFO  shutting down Metals
+2023.07.05 23:25:22 INFO  Exiting server
+2023.07.07 11:48:32 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.79.2.
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.038s)
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 07, 2023 11:48:33 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 11:48:34 INFO  time: initialize in 1.21s
+2023.07.07 11:48:37 WARN  Build server is not auto-connectable.
+2023.07.07 11:48:37 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 11:48:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:48:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+lug 07, 2023 11:48:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 8
+2023.07.07 11:48:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:48:47 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 11:48:51 INFO  time: code lens generation in 12s
+2023.07.07 11:48:51 INFO  time: code lens generation in 12s
+2023.07.07 11:48:51 INFO  time: code lens generation in 12s
+2023.07.07 11:48:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:48:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:50:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:51:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+2023.07.07 11:51:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:51:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:52:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:52:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:52:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+lug 07, 2023 11:52:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 203
+2023.07.07 11:52:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:52:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:52:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 11:52:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 13:56:10 INFO  Shutting down server
+2023.07.07 13:56:10 INFO  shutting down Metals
+2023.07.07 13:56:10 INFO  Exiting server
+2023.07.07 16:55:42 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.022s)
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 07, 2023 4:55:42 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 16:55:42 INFO  time: initialize in 0.6s
+2023.07.07 16:55:45 WARN  Build server is not auto-connectable.
+2023.07.07 16:55:45 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 16:55:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 16:55:50 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 16:55:52 INFO  time: code lens generation in 7.4s
+2023.07.07 16:56:37 INFO  
+2023.07.07 16:56:37 INFO  Template applied in /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/./hello-world
+2023.07.07 16:56:37 INFO  
+2023.07.07 16:56:37 INFO  time: ran 'giter8.Giter8' in 4.14s
+2023.07.07 16:57:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/hello-world/functional_scala.scala
+lug 07, 2023 4:58:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.07.07 16:59:39 INFO  
+2023.07.07 16:59:39 INFO  Template applied in /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/./prova-funziona-metal
+2023.07.07 16:59:39 INFO  
+2023.07.07 16:59:39 INFO  time: ran 'giter8.Giter8' in 2.81s
+2023.07.07 16:59:42 INFO  Shutting down server
+2023.07.07 16:59:42 INFO  shutting down Metals
+2023.07.07 16:59:42 INFO  Exiting server
+2023.07.07 17:01:01 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 07, 2023 5:01:01 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 07, 2023 5:01:01 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 07, 2023 5:01:01 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 07, 2023 5:01:01 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 07, 2023 5:01:02 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.028s)
+lug 07, 2023 5:01:02 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 07, 2023 5:01:02 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 17:01:02 INFO  time: initialize in 0.62s
+2023.07.07 17:01:04 WARN  Build server is not auto-connectable.
+2023.07.07 17:01:04 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 17:01:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 17:01:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/prova-funziona-metal/build.sbt
+2023.07.07 17:01:07 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 17:01:10 INFO  time: code lens generation in 5.79s
+2023.07.07 17:01:10 INFO  time: code lens generation in 4.58s
+2023.07.07 17:02:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/prova-funziona-metal/src/main/scala/Main.scala
+2023.07.07 17:02:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/prova funziona metal/prova.scala
+2023.07.07 17:05:12 INFO  Shutting down server
+2023.07.07 17:05:12 INFO  shutting down Metals
+2023.07.07 17:05:12 INFO  Exiting server
+2023.07.07 17:21:16 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.024s)
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 07, 2023 5:21:16 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 17:21:16 INFO  time: initialize in 0.6s
+2023.07.07 17:21:19 WARN  Build server is not auto-connectable.
+2023.07.07 17:21:19 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 17:21:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 17:21:22 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 17:21:24 INFO  time: code lens generation in 5.15s
+2023.07.07 17:21:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova2/functional_scala.scala
+2023.07.07 17:22:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova2/MyClass.scala
+2023.07.07 17:22:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/MyClass.scala
+2023.07.07 17:22:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.07 17:22:54 INFO  Shutting down server
+2023.07.07 17:22:54 INFO  shutting down Metals
+2023.07.07 17:22:54 INFO  Exiting server
+2023.07.08 11:29:42 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 08, 2023 11:29:42 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 08, 2023 11:29:42 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 08, 2023 11:29:42 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 08, 2023 11:29:43 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 08, 2023 11:29:43 AM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.040s)
+lug 08, 2023 11:29:43 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 08, 2023 11:29:43 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.08 11:29:43 INFO  time: initialize in 0.91s
+2023.07.08 11:29:46 WARN  Build server is not auto-connectable.
+2023.07.08 11:29:46 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.08 11:29:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.08 11:29:51 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.08 11:29:53 INFO  time: code lens generation in 7.27s
+2023.07.08 11:29:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/es2.scala
+2023.07.08 11:31:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/primo.scala
+2023.07.08 11:31:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/secondo.scala
+2023.07.08 11:31:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/es2.scala
+2023.07.08 11:32:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:32:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+lug 08, 2023 11:39:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.07.08 11:40:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+lug 08, 2023 11:40:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 238
+2023.07.08 11:40:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:40:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/es2.scala
+2023.07.08 11:41:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:41:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:17 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:42:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+lug 08, 2023 11:43:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.07.08 11:43:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:43:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2)list_comprehension/list_comprehension.scala
+2023.07.08 11:45:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/list_comprehension.scala
+2023.07.08 11:48:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/secondo.scala
+2023.07.08 11:49:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/list_comprehension.scala
+2023.07.08 11:49:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/list_comprehension.scala
+2023.07.08 11:49:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/list_comprehension.scala
+2023.07.08 11:52:40 INFO  Shutting down server
+2023.07.08 11:52:40 INFO  shutting down Metals
+2023.07.08 11:52:40 INFO  Exiting server
+2023.07.08 15:12:47 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.027s)
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 08, 2023 3:12:48 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.08 15:12:48 INFO  time: initialize in 0.64s
+2023.07.08 15:12:50 WARN  Build server is not auto-connectable.
+2023.07.08 15:12:50 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.08 15:12:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/secondo.scala
+2023.07.08 15:12:55 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/secondo.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.08 15:12:55 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.08 15:12:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/functional_scala.scala
+2023.07.08 15:12:58 INFO  time: code lens generation in 7.68s
+2023.07.08 15:12:58 INFO  time: code lens generation in 1.14s
+2023.07.08 15:12:58 INFO  time: code lens generation in 2.77s
+2023.07.08 17:32:05 INFO  Shutting down server
+2023.07.08 17:32:05 INFO  shutting down Metals
+2023.07.08 17:32:05 INFO  Exiting server
+2023.07.08 18:52:06 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.027s)
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 08, 2023 6:52:06 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.08 18:52:07 INFO  time: initialize in 0.73s
+2023.07.08 18:52:09 WARN  Build server is not auto-connectable.
+2023.07.08 18:52:09 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.08 18:52:47 INFO  
+2023.07.08 18:52:47 INFO  Template applied in /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/./3distributed
+2023.07.08 18:52:47 INFO  
+2023.07.08 18:52:47 INFO  time: ran 'giter8.Giter8' in 2.53s
+2023.07.08 19:11:18 INFO  
+2023.07.08 19:11:18 INFO  Template applied in /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/./4playing
+2023.07.08 19:11:18 INFO  
+2023.07.08 19:11:18 INFO  time: ran 'giter8.Giter8' in 2.09s
+2023.07.09 00:53:31 INFO  Shutting down server
+2023.07.09 00:53:31 INFO  shutting down Metals
+2023.07.09 00:53:31 INFO  Exiting server
+2023.07.09 14:25:23 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala' for client Visual Studio Code 1.80.0.
+lug 09, 2023 2:25:23 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 09, 2023 2:25:23 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 09, 2023 2:25:23 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 09, 2023 2:25:24 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/.metals/metals (H2 2.1)
+lug 09, 2023 2:25:24 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.036s)
+lug 09, 2023 2:25:24 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 09, 2023 2:25:24 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.09 14:25:24 INFO  time: initialize in 0.77s
+2023.07.09 14:25:26 WARN  Build server is not auto-connectable.
+2023.07.09 14:25:26 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.09 14:26:03 INFO  
+2023.07.09 14:26:03 INFO  Template applied in /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/./4-brainfuck
+2023.07.09 14:26:03 INFO  
+2023.07.09 14:26:03 INFO  time: ran 'giter8.Giter8' in 19s
+lug 09, 2023 2:59:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+lug 09, 2023 2:59:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAZIONI: Unsupported notification method: $/setTrace
+2023.07.09 16:28:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/src/main/scala/Main.scala
+2023.07.09 16:28:37 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/1functional_scala/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.09 16:28:40 INFO  time: code lens generation in 6.05s
+2023.07.09 17:29:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/hellosexypanana.scala
+2023.07.09 17:49:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/BrainfuckInterpreter.scala
+2023.07.09 18:31:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova/BrainfuckInterpreter.scala
+2023.07.09 18:31:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/BrainfuckInterpreter.scala
+2023.07.09 18:32:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova/brainfuck.scala
+2023.07.09 18:32:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/prova/build.sbt

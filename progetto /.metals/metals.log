@@ -1,0 +1,68 @@
+2023.07.07 17:10:13 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto ' for client Visual Studio Code 1.80.0.
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /.metals/metals (H2 2.1)
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFORMAZIONI: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.017s)
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFORMAZIONI: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": << Empty Schema >>
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "1 - Create tables"
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "2 - Server discovery"
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMAZIONI: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+lug 07, 2023 5:10:13 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.046s)
+2023.07.07 17:10:13 INFO  time: initialize in 0.56s
+2023.07.07 17:10:15 WARN  Build server is not auto-connectable.
+2023.07.07 17:10:15 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto '. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 17:10:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /file.scala
+2023.07.07 17:10:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /file.scala
+2023.07.07 17:10:20 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /file.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 17:10:21 INFO  time: code lens generation in 5.8s
+2023.07.07 17:10:22 INFO  time: code lens generation in 4.82s
+2023.07.07 17:10:22 INFO  time: code lens generation in 3.44s
+2023.07.07 17:11:14 INFO  Attempting to connect to the build server...
+2023.07.07 17:11:14 INFO  No build server found
+2023.07.07 17:11:14 INFO  time: Connected to build server in 3ms
+2023.07.07 17:11:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /file.scala
+2023.07.07 17:11:27 INFO  Shutting down server
+2023.07.07 17:11:27 INFO  shutting down Metals
+2023.07.07 17:11:27 INFO  Exiting server
+2023.07.07 17:11:29 INFO  Started: Metals version 0.11.12 in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto ' for client Visual Studio Code 1.80.0.
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAZIONI: Flyway Community Edition 9.16.3 by Redgate
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: See release notes here: https://rd.gt/416ObMi
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAZIONI: 
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAZIONI: Database: jdbc:h2:file:/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /.metals/metals (H2 2.1)
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAZIONI: Successfully validated 4 migrations (execution time 00:00.019s)
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAZIONI: Current version of schema "PUBLIC": 4
+lug 07, 2023 5:11:29 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAZIONI: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 17:11:29 INFO  time: initialize in 0.55s
+2023.07.07 17:11:31 WARN  Build server is not auto-connectable.
+2023.07.07 17:11:31 WARN  no build tool detected in workspace '/Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto '. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 17:11:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /file.scala
+2023.07.07 17:11:33 INFO  no build target found for /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/progetto /file.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 17:11:35 INFO  time: code lens generation in 5.51s
+2023.07.07 17:11:35 INFO  time: code lens generation in 1.07s
+2023.07.07 17:19:47 INFO  Shutting down server
+2023.07.07 17:19:47 INFO  shutting down Metals
+2023.07.07 17:19:47 INFO  Exiting server
