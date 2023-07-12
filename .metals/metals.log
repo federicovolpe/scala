@@ -8629,3 +8629,989 @@ AVVERTENZA: Unmatched cancel notification for request id 7934
 2023.07.12 11:02:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
 2023.07.12 11:09:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
 2023.07.12 11:11:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/2list_comprehension/list_comprehension.scala
+2023.07.12 11:16:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:00:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:00:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:00:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:00:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:00:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:04:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:13:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:13:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:13:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:14:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:14:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:14:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:14:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:15:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:16:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:16:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:17:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:18:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:18:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 12:19:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 9118
+lug 12, 2023 12:19:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 9128
+2023.07.12 12:19:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:19:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:22:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:23:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:24:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:24:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:24:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:25:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 12:26:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:17:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:17:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:17:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:17:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:17:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:18:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:18:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:19:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:19:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:19:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:19:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:19:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:19:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:55 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:20:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:05 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:21:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 1:22:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Init$.apply(Trees.scala:835)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$initRest$1(ScalametaParser.scala:3994)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.initRest(ScalametaParser.scala:3955)
+	at scala.meta.internal.parsers.ScalametaParser.initInsideTemplate(ScalametaParser.scala:3937)
+	at scala.meta.internal.parsers.ScalametaParser.init(ScalametaParser.scala:4051)
+	at scala.meta.internal.parsers.ScalametaParser.templateParents(ScalametaParser.scala:4061)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4109)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$2(ScalametaParser.scala:2143)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2141)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2109)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2092)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1958)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1597)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$5(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4280)
+	at scala.meta.internal.parsers.ScalametaParser.iter$4(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4446)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.parseStatSeq$1(ScalametaParser.scala:2385)
+	at scala.meta.internal.parsers.ScalametaParser.caseBody$1(ScalametaParser.scala:2392)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2395)
+	at scala.meta.internal.parsers.ScalametaParser.iter$2(ScalametaParser.scala:2426)
+	at scala.meta.internal.parsers.ScalametaParser.caseClausesIfAny(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2409)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$1(ScalametaParser.scala:2364)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2363)
+	at scala.meta.internal.parsers.ScalametaParser.argumentExprsOrPrefixExpr(ScalametaParser.scala:2307)
+	at scala.meta.internal.parsers.ScalametaParser.getNextRhs$1(ScalametaParser.scala:1985)
+	at scala.meta.internal.parsers.ScalametaParser.getPostfixOrNextRhs$1(ScalametaParser.scala:2005)
+	at scala.meta.internal.parsers.ScalametaParser.loop$6(ScalametaParser.scala:2049)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2075)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1960)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1421)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3655)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3561)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3391)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3370)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4342)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3(ScalametaParser.scala:4334)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3$adapted(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4174)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4088)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4140)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3856)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3848)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3724)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3705)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4318)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4306)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$13(ScalametaParser.scala:4524)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4524)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4479)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4477)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:124)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:46)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:124)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:137)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:130)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:100)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:859)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.07.12 13:22:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:41 ERROR /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Init$.apply(Trees.scala:835)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$initRest$1(ScalametaParser.scala:3994)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.initRest(ScalametaParser.scala:3955)
+	at scala.meta.internal.parsers.ScalametaParser.initInsideTemplate(ScalametaParser.scala:3937)
+	at scala.meta.internal.parsers.ScalametaParser.init(ScalametaParser.scala:4051)
+	at scala.meta.internal.parsers.ScalametaParser.templateParents(ScalametaParser.scala:4061)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4109)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$2(ScalametaParser.scala:2143)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2141)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2109)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2092)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1958)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1597)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$5(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4280)
+	at scala.meta.internal.parsers.ScalametaParser.iter$4(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4446)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.parseStatSeq$1(ScalametaParser.scala:2385)
+	at scala.meta.internal.parsers.ScalametaParser.caseBody$1(ScalametaParser.scala:2392)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2395)
+	at scala.meta.internal.parsers.ScalametaParser.iter$2(ScalametaParser.scala:2426)
+	at scala.meta.internal.parsers.ScalametaParser.caseClausesIfAny(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2409)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$1(ScalametaParser.scala:2364)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2363)
+	at scala.meta.internal.parsers.ScalametaParser.argumentExprsOrPrefixExpr(ScalametaParser.scala:2307)
+	at scala.meta.internal.parsers.ScalametaParser.getNextRhs$1(ScalametaParser.scala:1985)
+	at scala.meta.internal.parsers.ScalametaParser.getPostfixOrNextRhs$1(ScalametaParser.scala:2005)
+	at scala.meta.internal.parsers.ScalametaParser.loop$6(ScalametaParser.scala:2049)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2075)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1960)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1421)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3655)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3561)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3391)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3370)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4342)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3(ScalametaParser.scala:4334)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3$adapted(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4174)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4088)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4140)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3856)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3848)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3724)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3705)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4318)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4306)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$13(ScalametaParser.scala:4524)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4524)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4479)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4477)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:124)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:46)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:124)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.mtags.ScalaMtags.<init>(ScalaMtags.scala:24)
+	at scala.meta.internal.metals.Docstrings$Deindexer.<init>(Docstrings.scala:131)
+	at scala.meta.internal.metals.Docstrings.expireSymbolDefinition(Docstrings.scala:94)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:572)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:606)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:603)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:575)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:573)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1300)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:603)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:1500)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+lug 12, 2023 1:22:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Init$.apply(Trees.scala:835)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$initRest$1(ScalametaParser.scala:3994)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.initRest(ScalametaParser.scala:3955)
+	at scala.meta.internal.parsers.ScalametaParser.initInsideTemplate(ScalametaParser.scala:3937)
+	at scala.meta.internal.parsers.ScalametaParser.init(ScalametaParser.scala:4051)
+	at scala.meta.internal.parsers.ScalametaParser.templateParents(ScalametaParser.scala:4061)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4109)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$2(ScalametaParser.scala:2143)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2141)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2109)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2092)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1958)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1597)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$5(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4280)
+	at scala.meta.internal.parsers.ScalametaParser.iter$4(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4446)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.parseStatSeq$1(ScalametaParser.scala:2385)
+	at scala.meta.internal.parsers.ScalametaParser.caseBody$1(ScalametaParser.scala:2392)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2395)
+	at scala.meta.internal.parsers.ScalametaParser.iter$2(ScalametaParser.scala:2426)
+	at scala.meta.internal.parsers.ScalametaParser.caseClausesIfAny(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2409)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$1(ScalametaParser.scala:2364)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2363)
+	at scala.meta.internal.parsers.ScalametaParser.argumentExprsOrPrefixExpr(ScalametaParser.scala:2307)
+	at scala.meta.internal.parsers.ScalametaParser.getNextRhs$1(ScalametaParser.scala:1985)
+	at scala.meta.internal.parsers.ScalametaParser.getPostfixOrNextRhs$1(ScalametaParser.scala:2005)
+	at scala.meta.internal.parsers.ScalametaParser.loop$6(ScalametaParser.scala:2049)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2075)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1960)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1421)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3655)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3561)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3391)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3370)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4342)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3(ScalametaParser.scala:4334)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3$adapted(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4174)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4088)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4140)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3856)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3848)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3724)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3705)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4318)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4306)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$13(ScalametaParser.scala:4524)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4524)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4479)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4477)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:124)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:46)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:124)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:137)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:130)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:100)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:859)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.07.12 13:22:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:41 ERROR /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = "qualcosa è adato storto nel path"
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Init$.apply(Trees.scala:835)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$initRest$1(ScalametaParser.scala:3994)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.initRest(ScalametaParser.scala:3955)
+	at scala.meta.internal.parsers.ScalametaParser.initInsideTemplate(ScalametaParser.scala:3937)
+	at scala.meta.internal.parsers.ScalametaParser.init(ScalametaParser.scala:4051)
+	at scala.meta.internal.parsers.ScalametaParser.templateParents(ScalametaParser.scala:4061)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4109)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$2(ScalametaParser.scala:2143)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2141)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2109)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2092)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1958)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1597)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$5(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4280)
+	at scala.meta.internal.parsers.ScalametaParser.iter$4(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4446)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.parseStatSeq$1(ScalametaParser.scala:2385)
+	at scala.meta.internal.parsers.ScalametaParser.caseBody$1(ScalametaParser.scala:2392)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2395)
+	at scala.meta.internal.parsers.ScalametaParser.iter$2(ScalametaParser.scala:2426)
+	at scala.meta.internal.parsers.ScalametaParser.caseClausesIfAny(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2409)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$1(ScalametaParser.scala:2364)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2363)
+	at scala.meta.internal.parsers.ScalametaParser.argumentExprsOrPrefixExpr(ScalametaParser.scala:2307)
+	at scala.meta.internal.parsers.ScalametaParser.getNextRhs$1(ScalametaParser.scala:1985)
+	at scala.meta.internal.parsers.ScalametaParser.getPostfixOrNextRhs$1(ScalametaParser.scala:2005)
+	at scala.meta.internal.parsers.ScalametaParser.loop$6(ScalametaParser.scala:2049)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2075)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1960)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1603)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:323)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:367)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1508)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1397)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1421)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3655)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3617)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3561)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3391)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3370)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4342)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3(ScalametaParser.scala:4334)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$3$adapted(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:523)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4333)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4166)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4174)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4088)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4140)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3856)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:369)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:374)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3848)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3724)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3705)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4318)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4306)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4299)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$13(ScalametaParser.scala:4524)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4524)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4479)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:320)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:366)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4472)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4477)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:124)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:46)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:124)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.mtags.ScalaMtags.<init>(ScalaMtags.scala:24)
+	at scala.meta.internal.metals.Docstrings$Deindexer.<init>(Docstrings.scala:131)
+	at scala.meta.internal.metals.Docstrings.expireSymbolDefinition(Docstrings.scala:94)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:572)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:606)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:603)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:575)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:573)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1300)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:603)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:1500)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.07.12 13:22:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:22:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:23:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:24:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:24:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:24:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 1:24:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 10873
+2023.07.12 13:24:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:24:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:25:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:27:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:27:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:27:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:27:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:27:55 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:27:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:28:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:30:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:31:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:17 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:32:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:33:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:17 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:34:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:14 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:35:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:36:17 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:36:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:36:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:36:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:36:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:37:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:38:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:40:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:40:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:04 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:41:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:42:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:42:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:42:25 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:42:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:42:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:42:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:44:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 1:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 12765
+2023.07.12 13:45:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:45:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:45:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:45:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:46:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:46:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:46:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:46:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:48:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:49:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 1:49:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 12883
+2023.07.12 13:50:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:51:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:52:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:52:51 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:52:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:52:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:27 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:30 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:33 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:53:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:54:00 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:54:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:13 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 13:55:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:05:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:05:49 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:05:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:05:52 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:05:53 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:05:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:01 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:21 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:32 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:35 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:36 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:39 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:06:47 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:07 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:18 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 2:09:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 13534
+2023.07.12 14:09:22 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:09:44 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:03 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:06 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:08 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:09 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:10 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:16 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:17 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:19 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:28 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:34 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:40 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:10:59 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:02 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:11 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:12 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:15 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:23 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:24 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:26 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:37 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:41 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:43 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:45 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:11:46 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:12:38 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:12:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:12:56 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:12:58 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:13:29 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:13:31 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+lug 12, 2023 2:14:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVVERTENZA: Unmatched cancel notification for request id 14021
+2023.07.12 14:14:20 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:14:42 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:14:48 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:14:50 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:14:54 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
+2023.07.12 14:14:57 WARN  no build target for: /Users/luigivolpe/Desktop/Federico_Volpe/linguaggi di programmazione/scala/terminale/terminale.scala
