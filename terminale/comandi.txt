@@ -1,0 +1,4 @@
+mkdir prima_directory
+cd prima_directory
+touch primofile
+ls
