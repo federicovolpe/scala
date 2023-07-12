@@ -29,30 +29,91 @@ object TParser extends JavaTokenParsers{
         "ls" ^^ {case c => println("riconosciuto il comando ls ")                                                                                                            
                                     Ls()                            
                    }                                                
-    }                                                                                                                                                                          
-                                                                                                                                                                                              
-    //riconoscitore per il path                                                                                                                                                               
-    /*def path : Parser[List[String]] = (rep1("/" ~> stringLiteral) | stringLiteral) ^^ {                                                                                                     
-    def path : Parser[String] = (rep1("/" ~> stringLiteral) | stringLiteral) ^^ {                                                                                                             
-        case path if path.isInstanceOf[List[String]] =>                                                                                                                                       
-            println("riconosciuto il path: " + path.asInstanceOf[List[String]]) ;path                                                                                                         
-        case path if path.isInstanceOf[String] =>                                                                                                                                             
-            println("riconosciuto il path: " + path.asInstanceOf[String]) ;path                                                                                                               
-        case _ => throw new java.lang.IllegalArgumentException("qualcosa è adato storto nel path")                                                                                                                                                                                
-    } */                                                                                                                                                                                      
-                                                                                                                                                                                              
-}                                                                                                                                                                                             
-                                                                                                                                                                                              
+    }                                                                                                                                                                                          
+}                                                                                          
+                                                                                           
+//interprete dei comandi ha il compito di ricevere i comandi e redirezionarli al filesystem   
+object TerminalInterpreter{                                                                
+    def execute (comandi : List[Comando], f : FileSystem) = {       
+        comandi.foreach{ c => c match {                             
+                case Mkdir(n) => f.mkdir(n)                         
+                case Cd(n)    => f.cd(n)                            
+                case Ls()     => f.ls()                                               
+                case Touch(n) => f.touch(n)                                           
+            }                                                                         
+        }                                                                             
+    }                                                                                 
+}                                                                                          
+                                                                                           
+trait Entry {                        
+    val nome : String                
+    def print()                      
+}                                    
+                                     
+class File(override val nome: String) extends Entry {
+    override def print() ={            
+        println("file: ------> " + nome)                     
+    }                                                              
+}                                                                  
+                                                                   
+class Directory(override val nome: String,var entries: List[Entry] = List.empty) extends Entry{                      
+    def getEntry(nome: String): Option[Entry] = entries.find(_.nome == nome)
+                                                                   
+    def newdir(nome: String) = {                                   
+        val newDirectory = new Directory(nome)                     
+        entries = newDirectory :: entries                          
+    }                                                              
+                                                                   
+    def newfile(nome: String) = {                       
+        val newFile = new File(nome)                               
+       entries = newFile :: entries                                        
+    }                                                              
+                                                                   
+    override def print() = {                                     
+        println("Directory: " + nome)  
+        entries.foreach{x => x.print()}                            
+    }                                                                                    
+}                                                                                           
+                                                                                            
+class FileSystem{                                                                           
+    val root : Directory = new Directory("root", List())                                                                
+    var current : Directory = root                                                             
+                                                                                            
+    def cd (nome: String) = {                                                               
+        println("eseguo cd " + nome)                                                        
+        current.getEntry(nome) match {                                                      
+        case Some(directory: Directory) => current = directory                              
+        case _                          => println(s"Directory '$nome' not found.")         
+        }                                                                                   
+    }                                                                                       
+    def mkdir(nome: String) = {                                                             
+        println("eseguo mkdir " + nome)                                                        
+        current.newdir(nome)                                                                
+    }                                                                                       
+    def touch(nome: String) = {                                                             
+        println("eseguo touch " + nome)                                                        
+        current.newfile(nome)                                                               
+    }                                                                                      
+    def ls() : Unit = {                                                                                    
+        println("eseguo ls ")                     
+        root.entries.foreach{a => a.print()}                                                       
+    }                                             
+}                                                                                                                                                          
+                                                                                                                                                                                             
 object terminale {                                                                                                                                                                            
     def main (args: Array[String]): Unit ={                                                                                                                                                   
         args.foreach{file =>                                                                                                                                                                  
-            var testo = io.Source.fromFile(file).mkString                
+            var testo = io.Source.fromFile(file).mkString                                                                                                                                     
             println("testo trovato : " + testo)                                                                                                                                               
             TParser.parseAll(TParser.parse, testo) match{                                                                                                                                     
-                case TParser.Success(risultato, _) => println("risultato parsato con successo: " + risultato)                                                                                 
+                case TParser.Success(risultato, _) =>                                                                                                                                         
+                    println("risultato parsato con successo: " + risultato)                                                                                                                   
+                    val fs = new FileSystem                                                                                                                                                   
+                    TerminalInterpreter.execute(risultato, fs)                                                                                                                                
+                    println("eseguito tutto con successo !")                                                                                                                                                                                              
                                                                                                                                                                                               
                 case TParser.NoSuccess(msg, _) => println("FALLIMENTO: "+ msg)                                                                                                                
             }                                                                                                                                                                                 
-        }                                                                                                                                                                                    
-    }                                                                                                                                                                                        
-}                                                                                                                                                                                            
+        }                                                                                                                                                                                     
+    }                                                                                                                                                                                         
+}                                                                                                                                                                                             
