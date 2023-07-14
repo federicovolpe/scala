@@ -19,7 +19,7 @@ object ArithmeticEvaluator {
                                                                              
   def main(args: Array[String]): Unit = {                                    
     args.foreach { path => val lines = io.Source.fromFile(path).mkString     
-        ArithmeticParser.parseAll(ArithmeticParser.operation, lines) match {
+        ArithmeticParser.parseAll(ArithmeticParser.operation, lines) match { 
             case ArithmeticParser.Success(t, _) =>       
                 println(s"is the result in $path correct? ${ArithmeticEvaluator.check(t)}")
                                                          
