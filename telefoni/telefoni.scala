@@ -7,14 +7,26 @@ object Rubrica{
    var contatti = List[Contatto]()
 
    def add (c: Contatto) {
-      if(contatti.contains(c)){
-          println("contatto "+ c +" gia presente nella rubrica")
-      } else {
-          println("contatto "+ c +" inserito nella rubrica")
-          contatti = contatti :+ c
+     contatti.find(_.nome == c.nome) match {
+       case Some(x) => println("contatto "+ c +" gia presente nella rubrica")
+                       modifica(x)
+       case None    => println("contatto "+ c +" inserito nella rubrica")
+                       contatti = contatti :+ c
       }
    }
 
+   def modifica(c: Contatto) {
+      val indice = contatti.indexOf(c)
+      contatti.updated(indice, c)
+   }
+  
+   /**
+    * function that controls if the contact is presente
+    * after it prints the call 
+    */
+   def chiama(){ 
+     chiama
+   }
    def print(): List[Contatto] = {
       contatti 
    }
