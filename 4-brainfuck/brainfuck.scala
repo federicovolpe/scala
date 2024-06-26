@@ -72,8 +72,8 @@ object BrainfuckEvaluator {
     args.foreach { filename =>                                         
        val src = scala.io.Source.fromFile(filename)                    
        val lines = src.mkString                                        
-                                                           
-      println("avviamento del parser")                     
+                                                                   
+      println("avviamento del parser")                             
                                                                        
        BrainfuckParser.parseAll(BrainfuckParser.program, lines) match {
            case BrainfuckParser.Success(t,_) =>                        
